@@ -1,0 +1,1 @@
+If you want to run this program, run imports.sh first to install the necessary python libraries
